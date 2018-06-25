@@ -1,0 +1,32 @@
+[
+	{
+		"_id": "c-05",
+		"_parentId": "b-05",
+		"_type": "component",
+		"_component": "testcomponent",
+		"_classes": "",
+		"_layout": "left",
+		"title": "test",   
+		"displayTitle": "Custom component",
+		"body": "",
+		"instruction": "Press button to complete the step",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+    {
+		"_id": "c-06",
+		"_parentId": "b-06",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "",
+		"_layout": "left",
+		"title": "grats",
+		"displayTitle": "",
+		"body": "You have completed the step",
+		"instruction": "",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	}
+]
